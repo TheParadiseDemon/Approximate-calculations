@@ -1,0 +1,3 @@
+D:/Desktop files/C++ tries/Another solution of expression/cmake-build-debug/CMakeFiles/Another_solution_of_expression.dir
+D:/Desktop files/C++ tries/Another solution of expression/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop files/C++ tries/Another solution of expression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
